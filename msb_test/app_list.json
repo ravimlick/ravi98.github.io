@@ -1,0 +1,26 @@
+{
+    "update_date": "07012019",
+    "update_note": "New update is available. Click on allow to update around 1mb file",
+    "my_apps_list": [
+        {
+            "app_name": "Kahani part 1",
+            "app_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "app_package": "com.swixd.kahani.two"
+        },
+        {
+            "app_name": "My vocabulary power",
+            "app_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "app_package": "com.swixd.myvocabularypower"
+        },
+        {
+            "app_name": "Learn vocabulary",
+            "app_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "app_package": "com.swixd.learnvocabulary"
+        },
+        {
+            "app_name": "Learn sentence",
+            "app_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "app_package": "com.swixd.learnsentence"
+        }
+    ]
+}
