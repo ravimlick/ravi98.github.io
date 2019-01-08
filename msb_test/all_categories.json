@@ -1,0 +1,116 @@
+{
+    "categories": [
+        {
+            "category_comment": "C__A__T__E__G__O__R__Y__====__1",
+            "category_name": "Moral story",
+            "category_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "stories": [
+                {
+                    "story_title": "Frog and fox",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Jack and rose",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Akbar and birbal",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Golden egg",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                }
+            ]
+
+        },
+        {
+            "category_comment": "C__A__T__E__G__O__R__Y__====__2",
+            "category_name": "Akbar and Birbal",
+            "category_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "stories": [
+                {
+                    "story_title": "Frog and fox",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Jack and rose",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Akbar and birbal",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Golden egg",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                }
+            ]
+
+        },
+        {
+            "category_comment": "C__A__T__E__G__O__R__Y__====__3",
+            "category_name": "Panchatantra",
+            "category_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "stories": [
+                {
+                    "story_title": "Frog and fox",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Jack and rose",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Akbar and birbal",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Golden egg",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                }
+            ]
+
+        },
+        {
+            "category_comment": "C__A__T__E__G__O__R__Y__====__4",
+            "category_name": "Grimm fairy tales",
+            "category_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+            "stories": [
+                {
+                    "story_title": "Frog and fox",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Jack and rose",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Akbar and birbal",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                },
+                {
+                    "story_title": "Golden egg",
+                    "story_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/golporosik/golporosik_images/my_apps/kahaniya.png",
+                    "story_details": "long long text"
+                }
+            ]
+
+        }
+    ]
+}
