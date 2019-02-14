@@ -1,0 +1,13 @@
+{
+    "update_date": "07012019",
+    "update_note_title": "New update is available!!!",
+    "update_note_message": "Some minor bugs has been fixed. Click ok to update",
+    "is_show_apps": true,
+    "my_apps_list": [
+        {
+            "app_name": "Demo app",
+            "app_img_url": "https://github.com/ravimlick/ravi98.github.io/raw/master/my_final_apps/fairy_tales/images/fairy_tales.png",
+            "app_package": "com.swixd.kahani.two"
+        }
+    ]
+}
