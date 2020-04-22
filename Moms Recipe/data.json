@@ -1,0 +1,149 @@
+{
+    "Title": "Mom's Recipe",
+    "Creation_date": "14 April, 2020",
+    "Author": "Ravi",
+    "Copyright": "©️ 2020 Ravi",
+    "Last_update": "20 April, 2020",
+    "Categories": [
+        {
+            "catery_name": "Snacks",
+            "recipes": [
+                {
+                    "_comment": "::::::::::::::::::::::::::::::::: CATEGORY 1 :::::::::::::::::::::::::::::::::",
+                    "recipe_name": "Recipe name 1",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                },
+                {
+                    "recipe_name": "Recipe name 2",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                },
+                {
+                    "recipe_name": "Recipe name 3",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                },
+                {
+                    "recipe_name": "Recipe name 4",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                },
+                {
+                    "recipe_name": "Recipe name 5",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                }
+            ]
+        },
+        {
+            "_comment": "::::::::::::::::::::::::::::::::: CATEGORY 2 :::::::::::::::::::::::::::::::::",
+            "catery_name": "Snacks",
+            "recipes": [
+                {
+                    "recipe_name": "Recipe name 1",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                },
+                {
+                    "recipe_name": "Recipe name 2",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                },
+                {
+                    "recipe_name": "Recipe name 3",
+                    "recipe_image_url": "",
+                    "ingredients": [
+                        "Cardamom - 4pcs",
+                        "Cinemon - 2 pcs",
+                        "",
+                        ""
+                    ],
+                    "Preparation": [
+                        "Step 1 goes here",
+                        "Step 2 goes here",
+                        "Step 3 goes here",
+                        "Step 4 goes here"
+                    ]
+                }
+            ]
+        }
+    ]
+}
