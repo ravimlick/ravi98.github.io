@@ -6,7 +6,7 @@
     "Last_update": "20 April, 2020",
     "Categories": [
         {
-            "catery_name": "Snacks",
+            "category_name": "Snacks",
             "recipes": [
                 {
                     "_comment": "::::::::::::::::::::::::::::::::: CATEGORY 1 :::::::::::::::::::::::::::::::::",
@@ -93,7 +93,7 @@
         },
         {
             "_comment": "::::::::::::::::::::::::::::::::: CATEGORY 2 :::::::::::::::::::::::::::::::::",
-            "catery_name": "Snacks",
+            "category_name": "Sweets",
             "recipes": [
                 {
                     "recipe_name": "Recipe name 1",
