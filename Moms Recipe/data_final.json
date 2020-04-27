@@ -1,0 +1,86 @@
+{
+    "Title": "Mom's Recipe",
+    "Creation_date": "14 April, 2020",
+    "Author": "Ravi",
+    "Copyright": "©️ 2020 Ravi",
+    "Last_update": "20 April, 2020",
+    "AllTags": ["Snacks", "Veg", "Sweets", "Non-Veg", "Cake"],
+    "Recipes": [
+        {
+            "recipe_name": "Recipe name 1",
+            "img_low_url": "",
+            "img_high_url": "",
+            "tags": ["Snacks", "Veg"],
+            "ingredients": [
+                "Cardamom - 4pcs",
+                "Cinemon - 2 pcs",
+                "",
+                ""
+            ],
+            "Preparation": [
+                "Step 1 goes here",
+                "Step 2 goes here",
+                "Step 3 goes here",
+                "Step 4 goes here"
+            ]
+
+        },
+        {
+            "recipe_name": "Recipe name 2",
+            "img_low_url": "",
+            "img_high_url": "",
+            "tags": ["Sweets"],
+            "ingredients": [
+                "Cardamom - 4pcs",
+                "Cinemon - 2 pcs",
+                "",
+                ""
+            ],
+            "Preparation": [
+                "Step 1 goes here",
+                "Step 2 goes here",
+                "Step 3 goes here",
+                "Step 4 goes here"
+            ]
+
+        },
+        {
+            "recipe_name": "Recipe name 3",
+            "img_low_url": "",
+            "img_high_url": "",
+            "tags": ["Snacks", "Non-Veg"],
+            "ingredients": [
+                "Cardamom - 4pcs",
+                "Cinemon - 2 pcs",
+                "",
+                ""
+            ],
+            "Preparation": [
+                "Step 1 goes here",
+                "Step 2 goes here",
+                "Step 3 goes here",
+                "Step 4 goes here"
+            ]
+
+        },
+        {
+            "recipe_name": "Recipe name 4",
+            "img_low_url": "",
+            "img_high_url": "",
+            "tags": ["Cake", "Sweets"],
+            "ingredients": [
+                "Cardamom - 4pcs",
+                "Cinemon - 2 pcs",
+                "",
+                ""
+            ],
+            "Preparation": [
+                "Step 1 goes here",
+                "Step 2 goes here",
+                "Step 3 goes here",
+                "Step 4 goes here"
+            ]
+
+        }
+    ]
+}
