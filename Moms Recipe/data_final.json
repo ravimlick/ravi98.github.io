@@ -26,6 +26,63 @@
 
         },
         {
+            "recipe_name": "Recipe name 5",
+            "img_low_url": "",
+            "img_high_url": "",
+            "tags": ["Snacks", "Veg"],
+            "ingredients": [
+                "Cardamom - 4pcs",
+                "Cinemon - 2 pcs",
+                "",
+                ""
+            ],
+            "Preparation": [
+                "Step 1 goes here",
+                "Step 2 goes here",
+                "Step 3 goes here",
+                "Step 4 goes here"
+            ]
+
+        },
+        {
+            "recipe_name": "Recipe name 6",
+            "img_low_url": "",
+            "img_high_url": "",
+            "tags": ["Snacks", "Veg"],
+            "ingredients": [
+                "Cardamom - 4pcs",
+                "Cinemon - 2 pcs",
+                "",
+                ""
+            ],
+            "Preparation": [
+                "Step 1 goes here",
+                "Step 2 goes here",
+                "Step 3 goes here",
+                "Step 4 goes here"
+            ]
+
+        },
+        {
+            "recipe_name": "Recipe name 7",
+            "img_low_url": "",
+            "img_high_url": "",
+            "tags": ["Snacks", "Veg"],
+            "ingredients": [
+                "Cardamom - 4pcs",
+                "Cinemon - 2 pcs",
+                "",
+                ""
+            ],
+            "Preparation": [
+                "Step 1 goes here",
+                "Step 2 goes here",
+                "Step 3 goes here",
+                "Step 4 goes here"
+            ]
+
+        },
+        {
             "recipe_name": "Recipe name 2",
             "img_low_url": "",
             "img_high_url": "",
