@@ -12,10 +12,14 @@
             "img_high_url": "",
             "tags": ["Snacks", "Veg"],
             "ingredients": [
-                "Cardamom - 4pcs",
-                "Cinemon - 2 pcs",
-                "",
-                ""
+                {
+                    "ingredient_name": "Cardamom - 4pcs",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "Cinemon - 2 pcs",
+                    "img_ingredient": ""
+                }
             ],
             "Preparation": [
                 "Step 1 goes here",
@@ -31,10 +35,14 @@
             "img_high_url": "",
             "tags": ["Snacks", "Sweets"],
             "ingredients": [
-                "Cardamom - 4pcs",
-                "Cinemon - 2 pcs",
-                "",
-                ""
+                {
+                    "ingredient_name": "Cardamom - 4pcs",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "Cinemon - 2 pcs",
+                    "img_ingredient": ""
+                }
             ],
             "Preparation": [
                 "Step 1 goes here",
@@ -50,10 +58,14 @@
             "img_high_url": "",
             "tags": ["Snacks", "Sweets"],
             "ingredients": [
-                "Cardamom - 4pcs",
-                "Cinemon - 2 pcs",
-                "",
-                ""
+                {
+                    "ingredient_name": "Cardamom - 4pcs",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "Cinemon - 2 pcs",
+                    "img_ingredient": ""
+                }
             ],
             "Preparation": [
                 "Step 1 goes here",
@@ -69,10 +81,14 @@
             "img_high_url": "",
             "tags": ["Snacks", "Veg"],
             "ingredients": [
-                "Cardamom - 4pcs",
-                "Cinemon - 2 pcs",
-                "",
-                ""
+                {
+                    "ingredient_name": "Cardamom - 4pcs",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "Cinemon - 2 pcs",
+                    "img_ingredient": ""
+                }
             ],
             "Preparation": [
                 "Step 1 goes here",
@@ -88,10 +104,14 @@
             "img_high_url": "",
             "tags": ["Sweets"],
             "ingredients": [
-                "Cardamom - 4pcs",
-                "Cinemon - 2 pcs",
-                "",
-                ""
+                {
+                    "ingredient_name": "Cardamom - 4pcs",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "Cinemon - 2 pcs",
+                    "img_ingredient": ""
+                }
             ],
             "Preparation": [
                 "Step 1 goes here",
@@ -107,10 +127,14 @@
             "img_high_url": "",
             "tags": ["Snacks", "Non-Veg"],
             "ingredients": [
-                "Cardamom - 4pcs",
-                "Cinemon - 2 pcs",
-                "",
-                ""
+                {
+                    "ingredient_name": "Cardamom - 4pcs",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "Cinemon - 2 pcs",
+                    "img_ingredient": ""
+                }
             ],
             "Preparation": [
                 "Step 1 goes here",
@@ -126,10 +150,14 @@
             "img_high_url": "",
             "tags": ["Cake", "Sweets"],
             "ingredients": [
-                "Cardamom - 4pcs",
-                "Cinemon - 2 pcs",
-                "",
-                ""
+                {
+                    "ingredient_name": "Cardamom - 4pcs",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "Cinemon - 2 pcs",
+                    "img_ingredient": ""
+                }
             ],
             "Preparation": [
                 "Step 1 goes here",
