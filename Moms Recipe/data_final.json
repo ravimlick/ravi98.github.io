@@ -7,25 +7,85 @@
     "AllTags": ["Snacks", "Veg", "Sweets", "Non-Veg", "Cake"],
     "Recipes": [
         {
-            "recipe_name": "Recipe name 1",
+            "recipe_name": "Butter Chicken",
             "img_low_url": "",
             "img_high_url": "",
             "tags": ["Snacks", "Veg"],
             "ingredients": [
                 {
-                    "ingredient_name": "Cardamom - 5pcs",
+                    "ingredient_name": "250 gm of boneless chicken, cubed",
                     "img_ingredient": ""
                 },
                 {
-                    "ingredient_name": "Cinemon - 2 pcs",
+                    "ingredient_name": "2 onions, minced",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 tomato, pureed",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 tbsp of tomato paste or sauce",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 tbsp of butter, ghee, or oil",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 tsp of minced garlic",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 tsp of minced ginger",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "2 tsp of coriander powder",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 tsp of chilli powder (use Kashmiri chilli powder for better results)",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 tsp of garam masala or chicken masala",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 large pinch of kasuri methi / dried fenugreek leaves",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 cup of milk",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "3 tbsp of cream or pureed cashew paste (soak and grind cashew nuts)",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1-2 tsp salt (adjust to taste)",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1/4 tsp of turmeric powder",
+                    "img_ingredient": ""
+                },
+                {
+                    "ingredient_name": "1 small bunch of coriander leaves / cilantro, for ganish",
                     "img_ingredient": ""
                 }
             ],
             "Preparation": [
-                "Step 1 goes here",
-                "Step 2 goes here",
-                "Step 3 goes here",
-                "Step 4 goes here"
+                "Heat the butter in a pan and add the minced onions. Fry until golden brown.",
+                "Add the ginger, garlic, coriander, chilli powder, turmeric, and salt. Fry for a minute until fragrant.",
+                "Add the pureed tomato and tomato paste and cook for 3-4 mins until the mixture bubbles uniformly.",
+                "Thrown in the kasuri methi, milk, and the cubed chicken. Cook covered for 8-10 mins until the chicken is soft. The chicken will let out more water, just check once or twice in between and give the curry a stir. Keep the flame on sim.",
+                "When the chicken is cooked soft, open the lid and cook for a further minute or two. If the gravy is too thick, add some water at this stage.",
+                "When done, add the garam masala or chicken masala and the cream or cashew paste. Give it a good stir, but don't boil.",
+                "Adjust salt, garnish with the coriander leaves, and remove from fire.",
+                "Serve hot with tawa naan, pulao, or  rice."
             ]
 
         },
