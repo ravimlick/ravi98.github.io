@@ -12,70 +12,22 @@
             "img_high_url": "",
             "tags": ["Snacks", "Veg"],
             "ingredients": [
-                {
-                    "ingredient_name": "250 gm of boneless chicken, cubed",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "2 onions, minced",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 tomato, pureed",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 tbsp of tomato paste or sauce",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 tbsp of butter, ghee, or oil",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 tsp of minced garlic",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 tsp of minced ginger",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "2 tsp of coriander powder",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 tsp of chilli powder (use Kashmiri chilli powder for better results)",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 tsp of garam masala or chicken masala",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 large pinch of kasuri methi / dried fenugreek leaves",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 cup of milk",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "3 tbsp of cream or pureed cashew paste (soak and grind cashew nuts)",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1-2 tsp salt (adjust to taste)",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1/4 tsp of turmeric powder",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "1 small bunch of coriander leaves / cilantro, for ganish",
-                    "img_ingredient": ""
-                }
+                ["250 gm of boneless chicken, cubed", ""],
+                ["2 onions, minced", ""],
+                ["1 tomato, pureed", ""],
+                ["1 tbsp of tomato paste or sauce", ""],
+                ["1 tbsp of butter, ghee, or oil", ""],
+                ["1 tsp of minced garlic", ""],
+                ["1 tsp of minced ginger", ""],
+                ["2 tsp of coriander powder", ""],
+                ["1 tsp of chilli powder (use Kashmiri chilli powder for better results)", ""],
+                ["1 tsp of garam masala or chicken masala", ""],
+                ["1 large pinch of kasuri methi / dried fenugreek leaves", ""],
+                ["1 cup of milk", ""],
+                ["3 tbsp of cream or pureed cashew paste (soak and grind cashew nuts)", ""],
+                ["1-2 tsp salt (adjust to taste)", ""],
+                ["1/4 tsp of turmeric powder", ""],
+                ["1 small bunch of coriander leaves / cilantro, for ganish", ""]
             ],
             "Preparation": [
                 "Heat the butter in a pan and add the minced onions. Fry until golden brown.",
@@ -86,144 +38,6 @@
                 "When done, add the garam masala or chicken masala and the cream or cashew paste. Give it a good stir, but don't boil.",
                 "Adjust salt, garnish with the coriander leaves, and remove from fire.",
                 "Serve hot with tawa naan, pulao, or  rice."
-            ]
-
-        },
-        {
-            "recipe_name": "Recipe name 5",
-            "img_low_url": "",
-            "img_high_url": "",
-            "tags": ["Snacks", "Sweets"],
-            "ingredients": [
-                {
-                    "ingredient_name": "Cardamom - 4pcs",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "Cinemon - 2 pcs",
-                    "img_ingredient": ""
-                }
-            ],
-            "Preparation": [
-                "Step 1 goes here",
-                "Step 2 goes here",
-                "Step 3 goes here",
-                "Step 4 goes here"
-            ]
-
-        },
-        {
-            "recipe_name": "Recipe name 6",
-            "img_low_url": "",
-            "img_high_url": "",
-            "tags": ["Snacks", "Sweets"],
-            "ingredients": [
-                {
-                    "ingredient_name": "Cardamom - 4pcs",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "Cinemon - 2 pcs",
-                    "img_ingredient": ""
-                }
-            ],
-            "Preparation": [
-                "Step 1 goes here",
-                "Step 2 goes here",
-                "Step 3 goes here",
-                "Step 4 goes here"
-            ]
-
-        },
-        {
-            "recipe_name": "Recipe name 7",
-            "img_low_url": "",
-            "img_high_url": "",
-            "tags": ["Snacks", "Veg"],
-            "ingredients": [
-                {
-                    "ingredient_name": "Cardamom - 4pcs",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "Cinemon - 2 pcs",
-                    "img_ingredient": ""
-                }
-            ],
-            "Preparation": [
-                "Step 1 goes here",
-                "Step 2 goes here",
-                "Step 3 goes here",
-                "Step 4 goes here"
-            ]
-
-        },
-        {
-            "recipe_name": "Recipe name 2",
-            "img_low_url": "",
-            "img_high_url": "",
-            "tags": ["Sweets"],
-            "ingredients": [
-                {
-                    "ingredient_name": "Cardamom - 4pcs",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "Cinemon - 2 pcs",
-                    "img_ingredient": ""
-                }
-            ],
-            "Preparation": [
-                "Step 1 goes here",
-                "Step 2 goes here",
-                "Step 3 goes here",
-                "Step 4 goes here"
-            ]
-
-        },
-        {
-            "recipe_name": "Recipe name 3",
-            "img_low_url": "",
-            "img_high_url": "",
-            "tags": ["Snacks", "Non-Veg"],
-            "ingredients": [
-                {
-                    "ingredient_name": "Cardamom - 4pcs",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "Cinemon - 2 pcs",
-                    "img_ingredient": ""
-                }
-            ],
-            "Preparation": [
-                "Step 1 goes here",
-                "Step 2 goes here",
-                "Step 3 goes here",
-                "Step 4 goes here"
-            ]
-
-        },
-        {
-            "recipe_name": "Recipe name 4",
-            "img_low_url": "",
-            "img_high_url": "",
-            "tags": ["Cake", "Sweets"],
-            "ingredients": [
-                {
-                    "ingredient_name": "Cardamom - 4pcs",
-                    "img_ingredient": ""
-                },
-                {
-                    "ingredient_name": "Cinemon - 2 pcs",
-                    "img_ingredient": ""
-                }
-            ],
-            "Preparation": [
-                "Step 1 goes here",
-                "Step 2 goes here",
-                "Step 3 goes here",
-                "Step 4 goes here"
             ]
 
         }
