@@ -1,0 +1,151 @@
+{
+    "lessons": [
+        {
+            "lesson_title": "Greetings",
+            "lesson_thumbnail": "",
+            "sections": [
+                {
+                    "section_title": "Formal",
+                    "section_contents": [
+                        {
+                            "content_type": "0",
+                            "info_text": "সম্মানীয় ব্যক্তিকে (শিক্ষক মহাশয়, অফিসের বস) কখনোই Hi/hello বলে অভিবাদন জানাবেন না বরং Good morning/Good morning, sir এভাবে বলবেন। এটা হল formal নিয়ম।"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Good morning, dad",
+                            "native": "সুপ্রভাত, বাবা! (সকাল থেকে বেলা ১২ পর্যন্ত)"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Good afternoon, Shankar da.",
+                            "native": "নমস্কার, শঙ্করদা! (বেলা ১২ টা থেকে বিকাল ৪ টা পর্যন্ত)"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Good evening, sir.",
+                            "native": "নমস্কার, মহাশয়! (বিকাল ৪ টা থেকে রাত্রি পর্যন্ত)"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Good night.",
+                            "native": "শুভ রাত্রি! (রাত্রে বিদায় নেবার সময়)"
+                        },
+                        {
+                            "content_type": "0",
+                            "info_text": "রাত্রে কারো সাথে সাক্ষাৎ হলে, তখন যতই গভীর রাত হোক না কেন তাকে কখনোই Good night বলবেন না বরং বলবেন Good evening এবং বিদায় নেবার সময় বলবেন Good night।"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Good day to you, sir.",
+                            "native": "শুভদিন, মহাশয়! (দিনের বেলায় বিদায় নেওয়ার সময়)"
+                        }
+                    ]
+                },
+                {
+                    "section_title": "Informal",
+                    "section_contents": [
+                        {
+                            "content_type": "0",
+                            "info_text": "বন্ধু কিম্বা আপনজনদের জন্য formal (যেমন Good morning) অথবা informal (যেমন Hi/hello/what's up?) দুটোই ব্যবহার করা যেতে পারে।"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Hello/hi/hey!",
+                            "native": "নমস্কার।"
+                        },
+                        {
+                            "content_type": "2",
+                            "english": "what's up?/What's going on?/How is it going?",
+                            "native": "কি খবর?"
+                        },
+                        {
+                            "content_type": "0",
+                            "info_text": "What's up? মানে what is up? Is কে সংক্ষেপে শব্দের সাথে 's এভাবে জুড়ে লেখা হয়।"
+                        },
+                        {
+                            "content_type": "3",
+                            "english": "Nothing much",
+                            "native": "এই চলে যাচ্ছে।"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Welcome",
+                            "native": "স্বাগত জানাই"
+                        },
+                        {
+                            "content_type": "2",
+                            "english": "Good to see you",
+                            "native": "তোমাকে দেখে খুশি হলাম"
+                        },
+                        {
+                            "content_type": "3",
+                            "english": "Good to see you too",
+                            "native": "তোমাকে দেখে আমিও খুশি হলাম"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Thank you",
+                            "native": "ধন্যবাদ"
+                        },
+                        {
+                            "content_type": "2",
+                            "english": "how are you?/How are you doing?",
+                            "native": "তুমি কেমন আছো?"
+                        },
+                        {
+                            "content_type": "3",
+                            "english": "I am good/fine. What about you?",
+                            "native": "আমি ভালো আছি। তুমি কেমন আছো?"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Can I help you",
+                            "native": "আমি কি তোমার সাহায্য করতে পারি?"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Bye, bye!",
+                            "native": "বিদায়!"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Goodbye, friends",
+                            "native": "বিদায় বন্ধুরা"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Hope to see you again (or, see you)",
+                            "native": "আবার দেখা হবে"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Take care",
+                            "native": "ভালো থাকবেন"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Have a nice day",
+                            "native": "আপনার দিনটি শুভ হোক (বিদায় নেওয়ার সময়)"
+                        },
+                        {
+                            "content_type": "1",
+                            "english": "Long time no see! (or, it's been a while)",
+                            "native": "অনেকদিন পর দেখা হল"
+                        },
+                        {
+                            "content_type": "2",
+                            "english": "Nice to meet you",
+                            "native": "তোমার সাক্ষাৎ পেয়ে খুশি হলাম"
+                        },
+                        {
+                            "content_type": "3",
+                            "english": "Nice to meet you too",
+                            "native": "তোমার সাক্ষাৎ পেয়ে আমিও খুশি হলাম"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
